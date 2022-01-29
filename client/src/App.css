@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(#449FAF, #835211)
+
+
+  
+}
+
+
